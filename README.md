@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/milakorn69/profile-assets/main/1.png" alt="Ml banner" />
+  <img src="https://raw.githubusercontent.com/milakorn69/profile-assets/main/ml_banner.png" alt="Ml banner" />
 </p>
