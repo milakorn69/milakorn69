@@ -18,8 +18,6 @@
 
 <a href="https://mrs-ml.website/#networks"><img src="media/status.svg" alt="Live status of MrsML's Lava services: relays, health and networks" width="100%"></a>
 
-<sub>The card above is redrawn every 6 hours from the same data the website uses. Nothing on it is typed by hand.</sub>
-
 ## Tools
 
 Small, single-purpose tools I run for my own infrastructure and publish as they are.
