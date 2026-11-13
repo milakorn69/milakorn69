@@ -18,6 +18,8 @@
 
 <a href="https://mrs-ml.website/#networks"><img src="media/status.svg" alt="Live status of MrsML's Lava services: relays, health and networks" width="100%"></a>
 
+<sub>The card above is redrawn every 12 hours from the same data the website uses. Nothing on it is typed by hand.</sub>
+
 ## Tools
 
 Small, single-purpose tools I run for my own infrastructure and publish as they are.
@@ -38,4 +40,5 @@ Step-by-step instructions are on [mrs-ml.website/#delegate](https://mrs-ml.websi
 ## How it runs
 
 Servers at Hetzner in Germany, running Debian with Proxmox, LXC containers and Docker. Prometheus and Grafana watch the nodes around the clock, alerts go to Telegram, and release-watch flags upgrades before they land.
+
 
