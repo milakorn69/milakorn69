@@ -39,6 +39,6 @@ Step-by-step instructions are on [mrs-ml.website/#delegate](https://mrs-ml.websi
 
 ## How it runs
 
-Servers at Hetzner in Germany, running Debian with Proxmox, LXC containers and Docker. Prometheus and Grafana watch the nodes around the clock, alerts go to Telegram, and release-watch flags upgrades before they land.
+Servers in Germany, running Debian with Proxmox, LXC containers and Docker. Prometheus and Grafana watch the nodes around the clock, alerts go to Telegram, and release-watch flags upgrades before they land.
 
 
